@@ -1,2 +1,2 @@
-# tahminleme_karsilastirmasi
-Rastgele oluşturulmuş bir veri seti üzerinde klasik lojistik regresyon ve kuantum destek vektör makinesi (QSVC) modelleri kullanarak suçlu veya suçsuz tahminlerini karşılaştırılmaktadır.
+# Prediction Comparison
+The comparison of guilty or innocent predictions is made using classical logistic regression and quantum support vector machine (QSVC) models on a randomly generated dataset.
